@@ -1,1 +1,2 @@
 # Folder-management-system
+Folder-management-system is a Python-based interactive folder and file management system designed for use in Jupyter Notebooks and Google Colab. It simulates a hierarchical folder structure in memory and syncs folder and file operations with the file system in Colab’s /content directory. The project supports adding, deleting, and searching folders; adding, uploading, and opening text and PDF files; and interactive file uploads with a user-friendly menu-driven interface.
